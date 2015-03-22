@@ -1,0 +1,4 @@
+suites:
+    default:
+        namespace: JSila\Twemoji
+        psr4_prefix: JSila\Twemoji

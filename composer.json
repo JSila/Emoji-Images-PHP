@@ -1,0 +1,18 @@
+{
+    "name": "jsila/emoji-images-php",
+    "description": "Parses text for emoji names and converts them to corresponding images.",
+    "keywords": [
+        "emoji",
+        "twemoji"
+    ],
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jernej Sila",
+            "email": "jernej.sila@gmail.com"
+        }
+    ]
+}
